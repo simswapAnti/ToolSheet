@@ -1,5 +1,7 @@
-# ToolSheet - by Anti
+# ToolSheet - by anti2rich - discord.gg/sniping
 Collection of tools related to networking for fivem and other random shit that ill add if i get the time to do it.
+
+[My Discord](https://discord.gg/sniping)
 
 ![Img1](https://cdn.discordapp.com/attachments/1235810266969800737/1236651716774985791/Screenshot_2024-05-05_at_10.11.34_pm.png?ex=6638c929&is=663777a9&hm=a987d7f755cd9b09f18e596faa9ec0e888782538ba537baa5e9a93c84227b67d&)
 
@@ -10,3 +12,5 @@ Collection of tools related to networking for fivem and other random shit that i
 Project is not anywhere near complete just uploading for the sake of being able to edit this on the go
 
 If you have any changes or whatever post an issue and i'll have a geez at it.
+
+# If you are going to reupload this please credit me properly. fucking skid
